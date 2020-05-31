@@ -1,0 +1,6 @@
+#mycanvas{
+    background-image: url("../images/bg.png");
+    border: 5px solid black;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
